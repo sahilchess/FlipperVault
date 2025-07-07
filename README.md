@@ -12,8 +12,11 @@
 - **Check Password Strength**  
   Enter any password to analyze its strength based on entropy, character diversity, and common patterns. Get a clear rating and tips for improvement.
 
+- **Save Passwords**  
+  Securely store generated passwords with labels for easy retrieval. All data is stored locally on the device with optional encryption.
+
 - **Secure Access** *(Planned)*  
-  Optional PIN or gesture-based lock to protect access to the app.
+  Optional PIN or gesture-based lock to protect access to the app and stored credentials.
 
 - **Future Sync Support** *(Planned)*  
   Explore syncing with your web-based password manager via QR codes or USB for seamless integration.
@@ -22,15 +25,15 @@
 
 ## 🛠️ Why FlipperVault?
 
-FlipperVault is built for privacy-first users who want a quick, offline way to generate and evaluate passwords on the go. Whether you're a hacker, developer, or digital minimalist, this app keeps your credentials strong and your data local.
+FlipperVault is built for privacy-first users who want a quick, offline way to generate, evaluate, and store passwords on the go. Whether you're a hacker, developer, or digital minimalist, this app keeps your credentials strong and your data local.
 
 ---
 
 ## 📦 Coming Soon
 
-- Save and retrieve password entries securely
 - PIN/gesture lock screen
 - QR code sync with your web app
+- Encrypted storage for saved passwords
 
 ---
 
